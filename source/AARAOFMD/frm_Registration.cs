@@ -29,12 +29,13 @@ namespace AARAOFMD
 
         #region Constructor
 
-
+        //Normal Constructor
                 public frm_Registration()
                 {
                     InitializeComponent();
                     wrap = new Wrapper();
                 }
+        // Parameterized Constructor
                 public frm_Registration(string id)
                 {
                     search_regid = id;
