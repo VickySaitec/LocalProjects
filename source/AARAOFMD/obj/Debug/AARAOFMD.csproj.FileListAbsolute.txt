@@ -1,0 +1,9 @@
+F:\Projects\AARAOFMD\AARAOFMD\bin\Debug\AARAOFMD.exe.config
+F:\Projects\AARAOFMD\AARAOFMD\bin\Debug\AARAOFMD.exe
+F:\Projects\AARAOFMD\AARAOFMD\bin\Debug\AARAOFMD.pdb
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.csprojResolveAssemblyReference.cache
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.frm_Registration.resources
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.Properties.Resources.resources
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.csproj.GenerateResource.Cache
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.exe
+F:\Projects\AARAOFMD\AARAOFMD\obj\Debug\AARAOFMD.pdb

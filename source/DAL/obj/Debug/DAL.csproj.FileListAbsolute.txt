@@ -1,0 +1,9 @@
+F:\Projects\AARAOFMD\DAL\bin\Debug\DAL.dll
+F:\Projects\AARAOFMD\DAL\bin\Debug\DAL.pdb
+F:\Projects\AARAOFMD\DAL\bin\Debug\FormCustomization_Sample.dll
+F:\Projects\AARAOFMD\DAL\bin\Debug\SaitecSolutionLib.dll
+F:\Projects\AARAOFMD\DAL\bin\Debug\MessagingToolkit.QRCode.dll
+F:\Projects\AARAOFMD\DAL\bin\Debug\SaitecSolutionLib.pdb
+F:\Projects\AARAOFMD\DAL\obj\Debug\DAL.dll
+F:\Projects\AARAOFMD\DAL\obj\Debug\DAL.pdb
+F:\Projects\AARAOFMD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
